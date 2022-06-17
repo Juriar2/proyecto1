@@ -56,6 +56,12 @@ div h2, div h3{
 }
 
 #fondo{
-    background-color: rgb(219, 7, 7) ;
-    opacity: 0.5;
+    background-color: rgb(255, 0, 0) ;
+    height: 200px ;
+    background-image: url("https://ichef.bbci.co.uk/news/640/cpsprodpb/76B0/production/_105848303_gettyimages-996540050.jpg");
+    background-size: 200px 200px cover;
+    background-repeat: repeat-y;
+    background-position: center bottom; 
+   
+
 }
